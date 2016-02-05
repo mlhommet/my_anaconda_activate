@@ -1,4 +1,4 @@
-# my_anaconda_activate
+# my_conda_auto_activate
 
 
 inspired by https://github.com/sotte/conda_auto_activate.
